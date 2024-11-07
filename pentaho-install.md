@@ -1,4 +1,4 @@
-# Pentaho Data Integration Setup on macOS (M1/M2)
+# Pentaho Data Integration Setup on macOS (ARM)
 
 This tutorial will guide you through setting up **Pentaho Data Integration** (PDI) on macOS (M1/M2).
 
